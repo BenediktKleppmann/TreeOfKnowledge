@@ -5,7 +5,7 @@ attrs==19.3.0
 awscli==1.16.303
 awsebcli==3.16.0
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.3.0
 boto==2.49.0
 boto3==1.14.12
 botocore==1.17.12
