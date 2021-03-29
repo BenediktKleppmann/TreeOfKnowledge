@@ -76,7 +76,7 @@ py==1.8.1
 pyasn1==0.4.8
 pycosat==0.6.3
 pycparser==2.19
-Pygments==2.3.1
+Pygments==2.7.4
 pyOpenSSL==18.0.0
 pyparsing==2.4.7
 pyrsistent==0.14.11
